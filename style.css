@@ -1,0 +1,12 @@
+body {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.4;
+    letter-spacing: -0.02em;
+    color: var(--color-default);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 1rem 1rem 0;
+    background-color: var(--page-bg);
+}
